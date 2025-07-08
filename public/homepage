@@ -1,0 +1,21 @@
+<html> 
+  <head>
+    <title>Hello World</title> 
+  </head>
+
+  <body> 
+    <h1>Hello World</h1> 
+  </body>
+
+  <section class="panel medium color0">
+						<div class="intro">
+							<h2 class="major">Panel</h2>
+							<p>Just a generic panel.</p>
+						</div>
+						<div class="inner">
+							<p>Lorem ipsum dolor sit amet.</p>
+						</div>
+					</section>
+
+
+</html>
